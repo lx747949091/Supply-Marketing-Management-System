@@ -1,5 +1,5 @@
 
-#### 商品供销存管理系统 (JSP+SSM+MySQL+EasyUI)
+#### 青梅竹码供销存管理系统 
 # Supply-Marketing-Management-System
 
 主要技术|JSP |Spring |SpringMVC |Mysql |jQuery EasyUI 1.3.2 |
@@ -9,14 +9,14 @@
 ---|---|---|---|---
 
 
-##### [Demo下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)、[关注 作者自建博客](https://wuyu.mobi/)
+##### [Demo下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)、[访问 作者github+hexo自建博客](https://wuyu.mobi/)
 
-##### 关注 青梅竹码
+##### 扫二维码 关注 青梅竹码
 ![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/66.jpg)
 
-#### 登录首页
+#### 系统登录首页
 
-![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/2.png)
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/01.jpg)
 
 
 #### 项目主要功能模块介绍
