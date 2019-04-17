@@ -3,7 +3,7 @@
 
 
 主要技术|JSP |Spring |SpringMVC |Mysql |EasyUI |
----|---|---|---|---
+---|---|---|---|---|---
 
 主要工具|Windows10 64 |Eclipse |Tomcat9.0 |Mysql5.6
 ---|---|---|---|---
