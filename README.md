@@ -1,13 +1,14 @@
 # Supply-Marketing-Management-System
-商品供销存管理系统 (JSP+SSM+MySQL+EasyUI)
-首页
+#### 商品供销存管理系统 (JSP+SSM+MySQL+EasyUI)
+#### 首页
+
 ![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/2.png)
 
 
 
-模块|arouter-api|arouter-compiler|arouter-annotation|arouter-register
+技术|JSP|Spring|SpringMVC|Mysql5.6
 ---|---|---|---|---
-最新版本|[![Download](https://api.bintray.com/packages/zhi1ong/maven/arouter-api/images/download.svg)](https://bintray.com/zhi1ong/maven/arouter-api/_latestVersion)|[![Download](https://api.bintray.com/packages/zhi1ong/maven/arouter-compiler/images/download.svg)](https://bintray.com/zhi1ong/maven/arouter-compiler/_latestVersion)|[![Download](https://api.bintray.com/packages/zhi1ong/maven/arouter-annotation/images/download.svg)](https://bintray.com/zhi1ong/maven/arouter-annotation/_latestVersion)|[![Download](https://api.bintray.com/packages/zhi1ong/maven/arouter-register/images/download.svg)](https://bintray.com/zhi1ong/maven/arouter-register/_latestVersion)
+
 
 #### Demo展示
 
