@@ -2,15 +2,14 @@
 #### 商品供销存管理系统 (JSP+SSM+MySQL+EasyUI)
 
 
-主要技术|JSP|Spring |SpringMVC |Mysql5.6 |EasyUI
+主要技术|JSP |Spring |SpringMVC |Mysql |EasyUI |
 ---|---|---|---|---
-
 
 主要工具|Windows10 64 |Eclipse |Tomcat9.0 |Mysql5.6
 ---|---|---|---|---
 
 
-##### [Demo 下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)、[关注 作者自建博客](https://wuyu.mobi/)
+##### [Demo下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)、[关注 作者自建博客](https://wuyu.mobi/)[关注 青梅竹码](![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/66.jpg))
 
 #### 首页
 
