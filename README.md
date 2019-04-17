@@ -6,13 +6,17 @@
 
 
 
-技术|JSP|Spring|SpringMVC|Mysql5.6
+主要技术|JSP|Spring|SpringMVC|Mysql5.6|EasyUI
 ---|---|---|---|---
 
 
+主要工具|Windows10 64 |Eclipse|Tomcat9.0|Mysql5.6
+---|---|---|---|---
 #### Demo展示
 
-##### [Demo 下载](https://github.com/alibaba/ARouter/blob/develop/demo/arouter-demo.apk)、[关注作者CSDN博客](https://blog.csdn.net/weixin_43258908)
+##### [Demo 下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注作者CSDN博客](https://blog.csdn.net/weixin_43258908)[关注作者自建博客]
+https://wuyu.mobi/
+
 
 #### 项目介绍
 1. **登录注册、菜单管理、角色权限管理等**
