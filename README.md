@@ -9,7 +9,7 @@
 主要工具|Windows10 64 |Eclipse |Tomcat9.0 |Mysql5.6
 ---|---|---|---|---
 
-##### [Demo下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)、[访问 作者github+hexo自建博客](https://wuyu.mobi/)
+##### [Demo下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)
 
 ##### 扫二维码 关注 青梅竹码
 ![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/66.jpg)
