@@ -132,7 +132,7 @@
 	function add(){
 		var validate = $("#add-form").form("validate");
 		if(!validate){
-			$.messager.alert("消息提醒","请检查你输入的数据!","warning");
+			$.messager.alert("消息提醒","请检查您输入的数据!","warning");
 			return;
 		}
 		var data = $("#add-form").serialize();

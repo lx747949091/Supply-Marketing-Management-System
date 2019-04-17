@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="copyright" content="All Rights Reserved, Copyright (C) 2013, 猿来入此, Ltd." />
+<meta name="copyright" content="All Rights Reserved, Copyright (C) 2019, wuyupku, Ltd." />
 <title></title>
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/easyui/1.3.4/themes/default/easyui.css" />
 <link rel="stylesheet" type="text/css" href="../resources/admin/easyui/css/wu.css" />
@@ -27,11 +27,11 @@
                 <td><input type="password" id="oldPassword" class="wu-text easyui-validatebox" data-options="required:true, missingMessage:'请填写密码'" /></td>
             </tr>
             <tr>
-                <td width="60" align="right">新密码:</td>
+                <td width="60" align="right">输入新密码:</td>
                 <td><input type="password" id="newPassword" class="wu-text easyui-validatebox" data-options="required:true, missingMessage:'请填写密码'" /></td>
             </tr>
             <tr>
-                <td width="60" align="right">重复新密码:</td>
+                <td width="60" align="right">再次输入新密码:</td>
                 <td><input type="password" id="reNewPassword" class="wu-text easyui-validatebox" data-options="required:true, missingMessage:'请填写密码'" /></td>
             </tr>
         </table>
@@ -45,7 +45,7 @@
 	function submitEdit(){
 		var validate = $("#edit-form").form("validate");
 		if(!validate){
-			$.messager.alert("消息提醒","请检查你输入的数据!","warning");
+			$.messager.alert("消息提醒","请检查您输入的数据!","warning");
 			return;
 		}
 		if($("#newPassword").val() != $("#reNewPassword").val()){
@@ -66,6 +66,5 @@
 			}
 		})
 	}
-	
 	
 </script>
