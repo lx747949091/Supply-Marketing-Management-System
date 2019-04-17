@@ -11,9 +11,10 @@
 
 ##### [Demo下载](https://github.com/michaelwuyu/Supply-Marketing-Management-System)、[关注 作者CSDN博客](https://blog.csdn.net/weixin_43258908)、[关注 作者自建博客](https://wuyu.mobi/)
 
-[关注 青梅竹码](![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/66.jpg))
+##### 关注 青梅竹码
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/66.jpg)
 
-#### 首页
+#### 登录首页
 
 ![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/2.png)
 
