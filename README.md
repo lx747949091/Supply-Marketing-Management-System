@@ -11,22 +11,27 @@
 
 #### Demo展示
 
-##### [Demo apk下载](https://github.com/alibaba/ARouter/blob/develop/demo/arouter-demo.apk)、[Demo Gif](https://raw.githubusercontent.com/alibaba/ARouter/master/demo/arouter-demo.gif)
+##### [Demo 下载](https://github.com/alibaba/ARouter/blob/develop/demo/arouter-demo.apk)、[关注作者CSDN博客](https://blog.csdn.net/weixin_43258908)
 
-#### 一、功能介绍
-1. **支持直接解析标准URL进行跳转，并自动注入参数到目标页面中**
-2. **支持多模块工程使用**
-3. **支持添加多个拦截器，自定义拦截顺序**
-4. **支持依赖注入，可单独作为依赖注入框架使用**
-5. **支持InstantRun**
-6. **支持MultiDex**(Google方案)
-7. 映射关系按组分类、多级管理，按需初始化
-8. 支持用户指定全局降级与局部降级策略
-9. 页面、拦截器、服务等组件均自动注册到框架
-10. 支持多种方式配置转场动画 
-11. 支持获取Fragment
-12. 完全支持Kotlin以及混编(配置见文末 其他#5)
-13. **支持第三方 App 加固**(使用 arouter-register 实现自动注册)
+#### 项目介绍
+1. **登录注册、菜单管理、角色权限管理等**
+2. **进销存：进货、入库、销售**
+
+3. **供应商管理：供应商增删改查**
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/5.png)
+4. **商品管理：商品的增删改查**
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/8.png)
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/10.png)
+5. **商品入库（进货管理）：进货单、库存维护。**
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/11.png)
+6. **客户管理：客户的增删改查**
+
+7. **商品销售（出货管理）：出货单、库存维护**
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/17.png)
+8. **统计分析：图形化按年月日展示**
+![image](https://github.com/michaelwuyu/Supply-Marketing-Management-System/blob/master/images/18.png)
+9. **日志分析**
+
 
 #### 二、典型应用
 1. 从外部URL映射到内部页面，以及参数传递与解析
