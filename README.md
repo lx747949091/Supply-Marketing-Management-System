@@ -1,9 +1,9 @@
 
-#### 供销存管理系统 
+#### 9SSM框架)供销存管理系统 
 
 # Supply-Marketing-Management-System
 
-主要技术|JSP |Spring |SpringMVC |Mysql |jQuery EasyUI 1.3.2 |
+主要技术|JSP |Spring |SpringMVC |Mybatis |jQuery EasyUI 1.3.2 |
 ---|---|---|---|---|---
 
 主要工具|Windows10 64 |Eclipse |Tomcat9.0 |Mysql5.6
