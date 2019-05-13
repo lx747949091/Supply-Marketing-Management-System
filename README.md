@@ -1,7 +1,7 @@
 
 #### 9SSM框架)供销存管理系统 2019.5 
 
-# Supply-Marketing-Management-System
+# Supply--Marketing--Management--System
 
 主要技术|JSP |Spring |SpringMVC |Mybatis |jQuery EasyUI 1.3.2 |
 ---|---|---|---|---|---
